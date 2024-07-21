@@ -5,9 +5,10 @@
 3. Machine Learning
 
 Technical Analysis:
-1. `moveing_average`
-2. `oscillator`
-3. `price_action`
+1. `trend`
+2. `momentum`
+3. `volatility`
+4. `support_resistance`
 
 1. SMA
 2. EMA
