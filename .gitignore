@@ -3,6 +3,7 @@ MNIST/
 data/
 datasets/
 images/
+outputs/
 models/
 my_trainer/
 test-trainer/
